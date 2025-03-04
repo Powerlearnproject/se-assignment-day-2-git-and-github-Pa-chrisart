@@ -128,10 +128,20 @@ Complex branch management,
 and access control issues
 
 Best practices associated with using GitHub:
-Make small incremental changes. ...
-Keeping commits atomic. ...
-Developing using branches. ...
-Identifying a branching strategy. ...
-Writing descriptive commit messages. ...
+Make small incremental changes
+Keeping commits atomic
+Developing using branches
+Identifying a branching strategy
+Writing descriptive commit message
 Obtaining feedback through code reviews
+
+Common pitfalls:
+1. Lack of Communication
+2. Inadequate Testing
+3. Lack of Version Control Discipline
+
+Strategies to overcome them:
+1. Regularly Update and Pull Changes
+2. Use Branching and Merging Best Practices
+3. Communicate and Collaborate Effectively
 
